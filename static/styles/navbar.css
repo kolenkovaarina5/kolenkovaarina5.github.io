@@ -1,0 +1,41 @@
+.nav {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.active a {
+    color: #261501;
+    text-decoration: underline #261501;
+    text-underline-offset: 8px;
+    text-decoration-thickness: 1.25px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    margin-right: 26px;
+    
+
+
+}
+
+li {
+    display: inline;
+    margin-right: 100px;
+
+}
+
+li:last-child {
+    margin-right: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #3a3126;
+    font-size: 18px;
+}
+
+
+
